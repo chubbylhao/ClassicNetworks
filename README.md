@@ -26,11 +26,13 @@
 
 > 这可以说是“最早”成功应用的卷积神经网络，因其简单，故拿来入门练手十分不错
 
-![](https://raw.githubusercontent.com/chubbylhao/ClassicNetworks/main/LeNet5/res/LeNet5_loss.png)
+<div align=center><img
+src="https://raw.githubusercontent.com/chubbylhao/ClassicNetworks/main/LeNet5/res/LeNet5_loss.png"></div>
 
-<h5 align = "center"> （ 损失与参数更新次数的关系曲线 ） </h5>
+<h5 align = "center"> （ 损失和参数更新次数的关系曲线 ） </h5>
 
-![](https://raw.githubusercontent.com/chubbylhao/ClassicNetworks/main/LeNet5/res/LeNet5_prediction.png)
+<div align=center><img
+src="https://raw.githubusercontent.com/chubbylhao/ClassicNetworks/main/LeNet5/res/LeNet5_prediction.png"></div>
 
 <h5 align = "center"> （ 预测结果的可视化 ） </h5>
 
