@@ -62,7 +62,7 @@ src="https://raw.githubusercontent.com/chubbylhao/ClassicNetworks/main/AlexNet/r
 
 **内容未完，后续将持续更新~~** 
 
-> —— `2022.10.01` 
+> —— `2022.10.02` 
 
 ------
 
