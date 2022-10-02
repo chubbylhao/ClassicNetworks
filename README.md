@@ -42,6 +42,22 @@ src="https://raw.githubusercontent.com/chubbylhao/ClassicNetworks/main/LeNet5/re
 
 > 让深度学习重新进入大众视野的网络
 
+<div align=center><img
+src="https://raw.githubusercontent.com/chubbylhao/ClassicNetworks/main/AlexNet/res/Alexnet_loss.png"></div>
+
+<h5 align = "center"> （ 损失和参数更新次数的关系曲线 ） </h5>
+
+<div align=center><img
+src="https://raw.githubusercontent.com/chubbylhao/ClassicNetworks/main/AlexNet/res/Alexnet_predict.png"></div>
+
+<h5 align = "center"> （ 预测结果的可视化 ） </h5>
+
+------
+
+- **ResNet** 
+
+> 让超深网络变得真正可训练的重要之作
+
 ------
 
 **内容未完，后续将持续更新~~** 
